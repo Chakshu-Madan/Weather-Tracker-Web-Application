@@ -48,6 +48,3 @@ A simple and interactive Weather Tracker application built using HTML, CSS, and 
 ## 📌 Author
 
 Chakshu Madan
-
-## 📂 Project Structure
-# Weather-Tracker-Web-Application
